@@ -1,9 +1,11 @@
 .main{
 	background:#eee;
-	width: 100%;
+	border: 1px solid #eee;
+	width: 1200px;
 	padding:20px; 
 	position: relative;
 	overflow: hidden;
+	margin: 0 auto;
 }
 .teamimg{
 	width: 80px;
